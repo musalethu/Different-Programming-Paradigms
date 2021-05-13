@@ -22,9 +22,9 @@ e)Fuctional programming paradigm
 f)Database programming paradigm
 
 
-# INTRODUCTION
+# BODY
  WHAT ARE PROGRAMMING PARADIGMS?
- These are different ways of writing code . <br>
+ These are different ways or techniques of writing code . <br>
 
  1)Imperative programming paradigm
  It is based on the sequence of perculiar commands to work out a complication and carry of a goal.  <br>
