@@ -36,15 +36,15 @@ f)Database programming paradigm<br>
  c)Parallel processing Approach<br>
  We have a processor which processes instructions and then we have an output of processed data<br>
 
--Advantages
+-Advantages<br>
 1) It simple to implement.<br>
 2) It can contain variables, loops .<br>
 3) It can break problems into smaller forms<br>
 
--Disadvantages
+-Disadvantages<br>
 1) High complexity<br>
 2) Less efficient<br>
-3)It has no support for parallel programming<br>
+3) It has no support for parallel programming<br>
 
 
  2)Declerative programming paradigm<br>
@@ -59,17 +59,17 @@ The rules are not executed by the programmer but by the proof procedure <br>
  It is also known as 'Mathematical programming<br>
  It is the selection of the best elements from set of alternatives<br>
 
- -Advantages
-1)The focus is more on what should be done.<br>
-2)It is more verbose <br>
+ -Advantages<br>
+1) The focus is more on what should be done.<br>
+2) It is more verbose <br>
 
--Disadvantages
-1)There is no focus on how to do what should be done.<br>
-2)The properties are desribed while not explaining how to compute it.<br>
-
+-Disadvantages<br>
+1) There is no focus on how to do what should be done.<br>
+2) The properties are desribed while not explaining how to compute it.<br>
+ 
 
 # CONCLUSION
-Programming paradigms are appproaches of writing code and coming up with solutions in different programming languages.
-We can conclude that Declerative programming paradigm is less verbose ,simple and straight to the point , it tells you what to do but not how to do it . 
-In Imperative programming paradigm we get full information just by looking at the code we know how to achieve a goal , it more verbose and uses loops . 
+Programming paradigms are appproaches of writing code and coming up with solutions in different programming languages.<br>
+We can conclude that Declerative programming paradigm is less verbose ,simple and straight to the point , it tells you what to do but not how to do it .<br> 
+In Imperative programming paradigm we get full information just by looking at the code we know how to achieve a goal , it more verbose and uses loops . <br>
 
