@@ -12,11 +12,11 @@ Categories:
 This is an assignment about different programming paradigms and their advantages as well as their disadvantages.<br>
 
 We have two main programming paradigms which have been further subdivided into three sub-topics each which will be what I will mainly focus on.<br>
-We have the 1)Imperative programming paradigm and under it we have :<br>
+We have the<br> 1)Imperative programming paradigm and under it we have :<br>
 a) Procedural programming paradigm<br>
 b) Object Oriented programming <br>
 c)Parallel processing Approach <br>
-We also have 2)Declerative programming paradigm:<br>
+We also have <br>2)Declerative programming paradigm:<br>
 d)Logic programming paradigm<br>
 e)Fuctional programming paradigm<br>
 f)Database programming paradigm<br>
