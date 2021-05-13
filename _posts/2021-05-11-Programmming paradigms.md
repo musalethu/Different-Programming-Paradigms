@@ -61,7 +61,7 @@ The rules are not executed by the programmer but by the proof procedure <br>
 
  -Advantages<br>
 1) The focus is more on what should be done.<br>
-2) It is more verbose <br>
+2) It is less verbose <br>
 
 -Disadvantages<br>
 1) There is no focus on how to do what should be done.<br>
